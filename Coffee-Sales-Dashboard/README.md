@@ -26,3 +26,11 @@ Interactive sales dashboard built using a public coffee sales dataset. The proje
 
 ## Dataset
 Public Coffee Sales Dataset
+# Coffee Sales Dashboard
+
+## Dashboard Preview
+
+![Coffee Dashboard](Coffee_Sales_Dashboard.png)
+
+## Overview
+Interactive sales dashboard built using a public dataset.
