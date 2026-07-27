@@ -16,3 +16,11 @@ This project presents an interactive HR dashboard developed in Microsoft Excel u
 
 ## Dataset
 Public Kaggle HR Employee Attrition Dataset
+# HR Employee Attrition Dashboard
+
+## Dashboard Preview
+
+![HR Dashboard](HR_Employee_Attrition_Dashboard.png)
+
+## Overview
+Interactive HR dashboard using a public Kaggle dataset.
